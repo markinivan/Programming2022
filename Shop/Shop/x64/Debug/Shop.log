@@ -1,0 +1,14 @@
+﻿  Shop.c
+C:\GitHubProjects\Shop\Shop\Shop.c(1,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\GitHubProjects\Shop\Shop\Shop.c(2,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\GitHubProjects\Shop\Shop\Shop.c(12,29): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+C:\GitHubProjects\Shop\Shop\Shop.c(12,64): warning C4312: приведение типов: преобразование из "int" в "product *" большего размера
+C:\GitHubProjects\Shop\Shop\Shop.c(23,13): warning C4477: "scanf_s": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "char *(*)[20]"
+C:\GitHubProjects\Shop\Shop\Shop.c(23,13): message : этот аргумент используется описателем преобразования
+C:\GitHubProjects\Shop\Shop\Shop.c(23,13): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\GitHubProjects\Shop\Shop\Shop.c(23,13): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\GitHubProjects\Shop\Shop\Shop.c(23,13): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+C:\GitHubProjects\Shop\Shop\Shop.c(23,13): message : этот аргумент используется в качестве размера буфера
+C:\GitHubProjects\Shop\Shop\Shop.c(26,12): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "char **"
+C:\GitHubProjects\Shop\Shop\Shop.c(36,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  Shop.vcxproj -> C:\GitHubProjects\Shop\x64\Debug\Shop.exe
