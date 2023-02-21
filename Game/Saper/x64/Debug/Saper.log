@@ -1,0 +1,3 @@
+﻿  Sap.cpp
+C:\GitHubProjects\Game\Saper\Sap.cpp(44,11): warning C4101: cursorPos: неиспользованная локальная переменная
+  Saper.vcxproj -> C:\GitHubProjects\Game\x64\Debug\Saper.exe
